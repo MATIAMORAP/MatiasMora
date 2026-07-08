@@ -15,7 +15,6 @@
 
 ### Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Backend
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -34,4 +33,4 @@ Personal game project developed with Unity and C#, implementing gameplay systems
 
 ## 📫 Contact
 
-LinkedIn: (tu enlace)
+LinkedIn: https://www.linkedin.com/in/mat%C3%ADas-francisco-mora-palma/?skipRedirect=true
